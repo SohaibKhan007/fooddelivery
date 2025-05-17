@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/spring-projects/spring-framework/main/src/docs/spring-framework.png" alt="Spring Logo" width="200"/>
+  <img src="https://spring.io/images/logo-spring-9a6c48d0dc16cc6c0a6f5e30fc0f790f.svg" alt="Spring Logo" width="200"/>
 </div>
 
 ## 📝 Description
